@@ -1,6 +1,7 @@
 ## Yuta Kondo
 
-<!--age-->21<!--/age-->-year-old <!--grade-->B4<!--/grade--> student at the University of Tsukuba.
+<!--age-->21<!--/age--> years old.<br>
+<!--grade-->B4<!--/grade--> student at the University of Tsukuba, majoring in Informatics.<br>
 I research how LLMs understand language and space.
 
 📍 Tsukuba, Japan · 🌐 [yutakondo.com](https://yutakondo.com)
